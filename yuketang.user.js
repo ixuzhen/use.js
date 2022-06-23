@@ -12,6 +12,7 @@
     'use strict';
 
     const urls = [
+        "https://changjiang.yuketang.cn/v2/web/xcloud/video-student/9177085/8532728",
         "https://changjiang.yuketang.cn/v2/web/xcloud/video-student/9177085/8532730",
         "https://changjiang.yuketang.cn/v2/web/xcloud/video-student/9177085/8532732",
         "https://changjiang.yuketang.cn/v2/web/xcloud/video-student/9177085/8532736",
