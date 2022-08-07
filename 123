@@ -1,0 +1,1 @@
+python train.py --name label2city_1024p_9000 --netG local --ngf 32 --num_D 3 --niter 200 --niter_decay 200 --niter_fix_global 10 --resize_or_crop none --no_instance --label_nc 0 --save_epoch_freq 5 --dir_A /home/ma-user/work/FFHQ --dir_B /home/ma-user/work/FFHQR
